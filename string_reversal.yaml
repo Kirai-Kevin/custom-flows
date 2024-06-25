@@ -1,0 +1,11 @@
+# string_reversal.yaml
+
+default_model: ...
+
+flow:
+  reverse_string:
+    action: my_reverse_string
+    input_string:
+      var: my_input
+    word_index: 0  # Default index to reverse the first word
+default_output: reverse_string.reversed_string
