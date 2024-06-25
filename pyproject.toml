@@ -4,7 +4,7 @@
 name = "string-reversal-example"
 version = "0.1.0"
 description = "Example project for reversing strings with AsyncFlows."
-authors = ["Sheila Wafula <wafulasheila26@gmail.com.com>"]
+authors = ["Kevin Kirai <kiraikevin627@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
